@@ -56,7 +56,7 @@ cd bioconda-recipes
 git remote add upstream https://github.com/bioconda/bioconda-recipes.git
 ```
 
-### 4: Symc local and remote repositories
+### 4: Sync local and remote repositories
 
 Make sure the local fork is up to date with the remote repositories
 {: .notice--primary}

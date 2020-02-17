@@ -32,14 +32,14 @@ python -m pip install --user --upgrade setuptools wheel
 python -m pip install --user --upgrade twine
 ```
 
-### 2: Create distribution packages on your local machine, and check the `dist/` directory for the new version files
+## 2: Create distribution packages on your local machine, and check the `dist/` directory for the new version files
 
 ```bash
 python setup.py sdist bdist_wheel
 ls dist
 ```
 
-### 3: Upload the distribution files to `pypi`'s test server
+## 3: Upload the distribution files to `pypi`'s test server
 
 ```bash
 python -m twine upload --repository-url https://test.pypi.org/legacy/ dist/*
@@ -48,7 +48,7 @@ python -m twine upload --repository-url https://test.pypi.org/legacy/ dist/*
 - Check the upload on the `test.pypi` server
     - [https://test.pypi.org/project/PACKAGE/VERSION/](https://test.pypi.org/project/<PACKAGE>/<VERSION>)
 
-### 4: Test the upload with a local installation
+## 4: Test the upload with a local installation
 
 Create a new test environment
 {: .notice--primary}
@@ -65,7 +65,7 @@ python -m pip install --index-url https://test.pypi.org/simple/ --no-deps <PACKA
 
     - Start Python, import the package, and test the version
 
-### 5: Upload the distribution files to `pypi`
+## 5: Upload the distribution files to `pypi`
 
 ```bash
 python -m twine upload dist/*
