@@ -5,12 +5,14 @@ tags: [python, conda, bioconda, packaging, github]
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "book-reader"
+toc_sticky: true
 ---
 
-- Suppose:
-    - You have a package that has already been released on `bioconda`
-    - You have implemented a bugfix or other update and pushed to `master` (or equivalent branch) in the `GitHub` repository
-    - You have tagged the update as a `Release` on `GitHub` (and, optionally, obtained a DOI using `Zenodo`)
+Suppose:
+
+- You have a package that has already been released on `bioconda`
+- You have implemented a bugfix or other update and pushed to `master` (or equivalent branch) in the `GitHub` repository
+- You have tagged the update as a `Release` on `GitHub` (and, optionally, obtained a DOI using `Zenodo`)
 
 ## Read this first: `bioconda-bot` will update your package automatically 
 
