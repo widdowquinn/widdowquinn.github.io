@@ -13,19 +13,19 @@
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 remote_theme: "mmistakes/minimal-mistakes@4.18.1"
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale: "en-US"
-title: "Site Title"
-title_separator: "-"
+locale: "en-GB"
+title: "widdowquinn.github.io"
+title_separator: " | "
 subtitle: # site tagline that appears below site title in masthead
-name: "Your Name"
-description: "An amazing website."
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name: "Leighton Pritchard"
+description: "Mostly software and teaching materials for bioinformatics."
+url: "https://widdowquinn.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository: "widdowquinn/widdowquinn.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser: "/assets/images/teasers/teaser_500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -85,7 +85,7 @@ naver_site_verification:
 
 # Social Sharing
 twitter:
-  username:
+  username: "@widdowquinn"
 facebook:
   username:
   app_id:
@@ -107,27 +107,27 @@ analytics:
 
 # Site Author
 author:
-  name: "Your Name"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "I am an **amazing** person."
-  location: "Somewhere"
-  email:
+  name: "Leighton Pritchard"
+  avatar: "/assets/images/avatars/avatar_1000x1000.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio: "I'm a computational biologist working mostly in genomics and modelling."
+  location: "Glasgow, Scotland, UK"
+  # email: "leighton.pritchard@strath.ac.uk"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:leighton.pritchard@strath.ac.uk
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://widdowquinn.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/widdowquinn"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/widdowquinn"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -137,13 +137,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/widdowquinn"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/widdowquinn"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -153,6 +153,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/leighton-pritchard-7b05111/"
 
 # Reading Files
 include:
