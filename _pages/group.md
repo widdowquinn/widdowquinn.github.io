@@ -8,7 +8,7 @@ toc: true
 ## General group info
 
 - [Group code of conduct](/group/code_of_conduct)
-- [Group philosophy](/group/philosopy)
+- [Group philosophy](/group/philosophy)
 - [Group Python coding style guidelines](/group/python_style)
 
 ## PhD student info

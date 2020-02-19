@@ -4,7 +4,13 @@ permalink: /group/python_style
 title: "Group Python Coding Style"
 ---
 
-To help us maintain consistent, remixable codebases with minimum effort, we use static analysis tools, automated code formatting, automated tests, and continuous integration services. The current standard suite of tools is:
+# Group Python Coding Style
+
+To help us maintain consistent, remixable codebases with minimum effort, we use static analysis tools, automated code formatting, automated tests, and continuous integration services.
+
+## Development Suite
+
+The current standard suite of tools is:
 
 - [`Anaconda`](https://www.anaconda.com/distribution/) (Python distribution and virtual environment management)
 - [`git`](https://git-scm.com) (source control management)
@@ -20,16 +26,21 @@ To help us maintain consistent, remixable codebases with minimum effort, we use 
 - [`CircleCI`](https://pytest-cov.readthedocs.io/en/latest/readme.html) (continuous integration)
 - [`GitHub`](https://github.com) (remote, public `git` repositories)
 
+## PEPs
+
 We try to stick to `PEP` guidelines wherever possible. Some important `PEP`s are:
 
 - [`PEP8`](https://www.python.org/dev/peps/pep-0008/) (style guide for Python code)
 - [`PEP257`](https://www.python.org/dev/peps/pep-0257/) (style guide for Python documentation)
 
-We aim to develop all our software and tools in public, under the MIT licence. To do this we make our source code available, with source (and where appropriate, binary) releases at [`GitHub`](https://github.com). Tools and Python packages are packaged for [`bioconda`](), and Python packages are also distributed *via* [`PyPI`](https://pypi.org).
+## Packaging and Distribution
+
+We aim to develop all our software and tools in public, under the MIT licence. To do this we make our source code available, with source (and where appropriate, binary) releases at [`GitHub`](https://github.com). Tools and Python packages are packaged for [`bioconda`](https://https://anaconda.org/bioconda), and Python packages are also distributed *via* [`PyPI`](https://pypi.org).
 
 - [`GitHub`](https://github.com) (remote, public git repositories)
 - [`bioconda`](https://https://anaconda.org/bioconda) (`Anaconda` channel distributing bioinformatics software)
 - [`PyPI`](https://pypi.org) (Python package warehousing and distribution)
+
 
 ## Related posts
 
