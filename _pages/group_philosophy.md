@@ -10,7 +10,7 @@ Our primary focus is on enabling better biology through data analysis and softwa
 
 ## Open Science
 
-To the best of the group's ability, we practice open science. Our default is to be “open”.
+To the best of the group's ability, we practice open science. **Our default is to be “open”.**
 
 - we aim to make all software available under an [MIT open source license](https://opensource.org/licenses/MIT)
 - we aim to write our papers openly and submit to preprint servers.
