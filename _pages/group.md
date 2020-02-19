@@ -5,6 +5,11 @@ title: "Group Pages"
 toc: true
 ---
 
+## General group info
+
+- [Group code of conduct](/group/code_of_conduct)
+- [Group philosophy](/group/philosopy)
+
 ## PhD student info
 
 {% for post in site.categories.PhD %}
