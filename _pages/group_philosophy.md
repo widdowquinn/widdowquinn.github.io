@@ -37,4 +37,3 @@ Given finite resources, not all problems are worth solving. Choose problems wort
 {: .notice--danger}
 
 Teaching and training are core values within the group. However, please be mindful of the need to balance teaching and training with research efforts.
-https://https://anaconda.org/bioconda
