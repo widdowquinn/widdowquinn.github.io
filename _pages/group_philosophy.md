@@ -18,17 +18,23 @@ To the best of the group's ability, we practice open science. Our default is to 
 - we invite and welcome collaboration.
 
 We do encourage blogging and open discussion of research on social media.
+{: .notice--success}
 
 This does not override issues arising from GDPR, or genuine privacy and anonymity concerns. In particular, when dealing with medical data and results deriving from human samples we make every endeavour to preserve anonymity.
+{: .notice--danger}
 
 ## Other notes
 
 We have a code of conduct. Please see the [Group Code of Conduct](/group/code_of_conduct).
+{: .notice--primary}
 
 The first choice of language for writing software should be Python, in order to maximize reuse and remixability within the lab. This does not exclude use of other languages (Bash, MATLAB, C++, Julia, Go, etc.) where they are more appropriate to the task.
 
 Postdocs are generally welcome to take projects with them and collaborate on group projects after they leave the group, although Leighton may have suggestions to help with career considerations.
+https://https://anaconda.org/bioconda
 
 Given finite resources, not all problems are worth solving. Choose problems worthy of your time and energy.
+{: .notice--danger}
 
 Teaching and training are core values within the group. However, please be mindful of the need to balance teaching and training with research efforts.
+https://https://anaconda.org/bioconda
