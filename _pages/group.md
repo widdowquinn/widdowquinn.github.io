@@ -9,6 +9,7 @@ toc: true
 
 - [Group code of conduct](/group/code_of_conduct)
 - [Group philosophy](/group/philosopy)
+- [Group Python coding style](group/python_style)
 
 ## PhD student info
 
@@ -16,14 +17,6 @@ toc: true
 - {{ post.date | date_to_string }}: [{{ post.title }}]({{ post.url }})
 {% endfor %}
 
-## `Python` group style
+## How do I edit this website?
 
-{% for post in site.categories.Style %}
-- {{ post.date | date_to_string }}: [{{ post.title }}]({{ post.url }})
-{% endfor %}
-
-## Coding guidelines
-
-{% for post in site.categories.Coding %}
-- {{ post.date | date_to_string }}: [{{ post.title }}]({{ post.url }})
-{% endfor %}
+Anyone in the group can edit or add to these pages. To do so, please fork this repository from [https://github.com/widdowquinn/widdowquinn.github.io](https://github.com/widdowquinn/widdowquinn.github.io), make your changes, and issue a pull request against the original repository, tagging Leighton as a reviewer. Most requests will be merged without question, but the time to changes going live may vary.
