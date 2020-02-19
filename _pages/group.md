@@ -9,7 +9,7 @@ toc: true
 
 - [Group code of conduct](/group/code_of_conduct)
 - [Group philosophy](/group/philosopy)
-- [Group Python coding style guidelines](group/python_style)
+- [Group Python coding style guidelines](/group/python_style)
 
 ## PhD student info
 

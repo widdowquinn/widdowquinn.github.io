@@ -22,8 +22,8 @@ To help us maintain consistent, remixable codebases with minimum effort, we use 
 
 We try to stick to `PEP` guidelines wherever possible. Some important `PEP`s are:
 
-- [`PEP8`](https://www.python.org/dev/peps/pep-0008/)
-- [`PEP257`](https://www.python.org/dev/peps/pep-0257/)
+- [`PEP8`](https://www.python.org/dev/peps/pep-0008/) (style guide for Python code)
+- [`PEP257`](https://www.python.org/dev/peps/pep-0257/) (style guide for Python documentation)
 
 We aim to develop all our software and tools in public, under the MIT licence. To do this we make our source code available, with source (and where appropriate, binary) releases at [`GitHub`](https://github.com). Tools and Python packages are packaged for [`bioconda`](), and Python packages are also distributed *via* [`PyPI`](https://pypi.org).
 
