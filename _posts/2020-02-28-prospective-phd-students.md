@@ -1,5 +1,5 @@
 ---
-permalink: /phd/python_style
+permalink: /phd/prospective_students
 title: "Advice for Prospective PhD Students"
 categories: PhD
 tags: [advice, studentships, PhD students, job applications, supervision]
