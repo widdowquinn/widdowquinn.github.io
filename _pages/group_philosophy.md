@@ -1,10 +1,12 @@
 ---
-layout: splash
+layout: single
 permalink: /group/philosophy
 title: "Group Philosophy"
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "book-reader"
+toc_sticky: true
 ---
-
-# Group Philosophy
 
 Our primary focus is on enabling better biology through data analysis and software. Biology is increasingly a data-intensive science in need of tools, techniques and expertise to extract accurate and useful insights. Our role spans from development of novel software and general computational/modelling approaches to biological problems, to full collaborations on specific biological projects. We work mostly in the areas of 'omics (genomics/metagenomics, metabolomics, and transcriptomics) and modelling, with a focus on microbiology.
 

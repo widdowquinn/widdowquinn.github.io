@@ -1,10 +1,12 @@
 ---
-layout: splash
+layout: single
 permalink: /group/python_style
 title: "Group Python Coding Style"
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "book-reader"
+toc_sticky: true
 ---
-
-# Group Python Coding Style
 
 To help us maintain consistent, remixable codebases with minimum effort, we use static analysis tools, automated code formatting, automated tests, and continuous integration services.
 

@@ -1,10 +1,12 @@
 ---
-layout: splash
+layout: single
 permalink: /group/code_of_conduct
 title: "Group Code of Conduct"
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "book-reader"
+toc_sticky: true
 ---
-
-# Group Code of Conduct
 
 The group subscribes to and supports the University of Strathclyde's unacceptable behaviour and personal relationship policies.
 
