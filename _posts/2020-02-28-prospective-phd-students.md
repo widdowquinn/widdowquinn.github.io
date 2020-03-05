@@ -11,15 +11,19 @@ toc_sticky: true
 
 A short post with advice for if you're thinking about applying for a PhD in the group, or with Leighton as a supervisor.
 
+## Should I get in touch first?
+
+Please do! We're all friendly, and love to talk about our work - both ongoing and planned. You won't be wasting anyone's time - in fact, you might be saving it! Please contact Leighton by any of the methods in the sidebar (email is preferred for the first contact).
+
 ## Compatibility
 
-It goes quickly while you're doing it, but a PhD is a long process and it's important to keep good relations during that time. The PhD application process and interview is a chance for you to establish whether you will get on with me, the other supervisor(s) and the group(s). A PhD can be a major chunk of your life, and it's important for you (and everyone else!) that it's something you enjoy. The selection process is as much for you to select your PhD environment as it is for supervisors to select their students.
+It goes quickly while you're doing it, but a PhD is a long process and it's important to keep good relations during that time. The PhD application process and interview is a chance for you to establish whether you will get on with me, the other supervisor(s) and the group(s). A PhD can be a major chunk of your life, and it's important for you (and everyone else!) that it's something you enjoy. The selection process is as much for the candidate to select your PhD environment as it is for supervisors to select their students.
 
-Some people just find it hard to work together, and that's OK - it's not a reflection on ability or anything else. If you have doubts at this stage, it's better to air them or maybe act on them, than spend four years regretting the choice. If you want to come in to visit before making a decision, that's great - we'll be happy to host you - it could give you a much better idea of what environment to expect than an interview alone would.
+Some people just find it hard to work together, and that's OK - it's not a reflection on ability or anything else. If you have doubts at this stage, it's better to air them or maybe act on them, than spend four years regretting the choice. If you want to come in to visit before making a decision, that's great - we'll be happy to host you (though we can't pay for travel or accommodation). A visit may give you a much better idea of what environment to expect than an interview alone would.
 
 ## Commitment and Resilience
 
-Doing a PhD takes a lot of time and energy, and - ideally - self-management. Enthusiasm can carry you through, but on its own that may not be enough. There will inevitably be disappointments and problems (it *is* research - if we knew the answers we wouldn't be doing it, and sometimes we even ask the wrong questions!). Hardly anyone starts the process knowing that they will be able to cope, but almost everyone does. You will develop resilience, even if you don't think you have it, right now.
+Doing a PhD takes a lot of time and energy, and - ideally - self-management. Enthusiasm can carry you through, but on its own that may not be enough. There will inevitably be disappointments and problems (it *is* research, after all - if we knew the answers we wouldn't be doing it, and sometimes we even ask the wrong questions!). Hardly anyone starts their PhD process knowing that they will be able to cope, but almost everyone does. You will develop resilience, even if you don't think you have it, right now.
 
 ## The Changing Supervisor-Student Relationship
 
