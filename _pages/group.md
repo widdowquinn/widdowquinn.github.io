@@ -16,7 +16,7 @@ toc_sticky: true
 
 ## PhD student info
 
-- [Current Opportunities](/phd/opportunities)
+- [**Current Opportunities**](/phd/opportunities){: .btn .btn--success}
 
 {% for post in site.categories.PhD %}
 - {{ post.date | date_to_string }}: [{{ post.title }}]({{ post.url }})

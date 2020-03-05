@@ -1,22 +1,22 @@
 ---
-layout: splash
-permalink: /phd/opporunities
+permalink: /phd/opportunities
 title: "Current PhD Opportunities"
+tags: [studentships, PhD students, job applications]
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "book-reader"
 toc_sticky: true
 ---
 
-The PhD studentship projects listed below are currently available. Please do read our [advice for potential PhD students](/phd/prospective_students), if you are interested in applying. 
+The PhD studentship projects listed below are currently available. Please do read our [advice for potential PhD students](/phd/prospective_students), if you are considering an application. 
 
 ## Project 1: Comprehensive taxonomy, pangenomics and metabolic modelling of *Streptomyces*.
 
-- [Apply Here](https://spider.science.strath.ac.uk/sipbs/phd_projects.php?project=38)
+- [Apply Here](https://spider.science.strath.ac.uk/sipbs/phd_projects.php?project=38){: .btn .btn--success}
 
 Supervised by Leighton, and [Prof. Paul Hoskisson](https://www.strath.ac.uk/staff/hoskissonpauldr/)
 
-- [Read more at SIPBS](https://spider.science.strath.ac.uk/sipbs/phd_projects.php?project=38)
+- [Read more at SIPBS](https://spider.science.strath.ac.uk/sipbs/phd_projects.php?project=38){: .btn .btn--warning}
 
 ### Aim 1: Develop a robust taxonomic classification of the *Streptomyces* genus
 
