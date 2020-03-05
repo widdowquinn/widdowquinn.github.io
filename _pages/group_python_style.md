@@ -2,6 +2,7 @@
 layout: single
 permalink: /group/python_style
 title: "Group Python Coding Style"
+tags: [coding, python]
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "book-reader"
