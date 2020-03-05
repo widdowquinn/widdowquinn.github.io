@@ -1,5 +1,6 @@
 ---
 layout: splash
+title: "widdowquinn.github.io"
 permalink: /
 header:
     overlay_image: /assets/images/headers/homepage_1600x524.jpg
@@ -32,3 +33,16 @@ feature_row:
 ---
 
 {% include feature_row %}
+
+## What We Do
+
+I lead a computational biology research group in [SIPBS](https://www.strath.ac.uk/science/strathclydeinstituteofpharmacybiomedicalsciences/whatissipbs/) ([Strathclyde Institute for Pharmacy and Biomedical Sciences](https://www.strath.ac.uk/science/strathclydeinstituteofpharmacybiomedicalsciences/whatissipbs/)), at the [University of Strathclyde, Glasgow, Scotland](https://www.strath.ac.uk). We apply computational and mathematical approaches to better understand biology. Our main areas of research are in microbiology, human health, and plant health, and we have experience in a number of areas, including:
+
+- genomics
+- systems biology
+- metabolic modelling
+- software development
+- phylogenetics and phylogenomics
+- statistics (frequentist and Bayesian) and modelling
+- synthetic biology
+- protein sequence-structure-function analysis
