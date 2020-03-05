@@ -24,7 +24,7 @@ Generate an objective and definitive classification scheme for *Streptomyces*, w
 
 ### Aim 2: Pangenome analysis of *Streptomyces*
 
-Produce a definitive pangenome analysis for *Streptomyces*, using the classification scheme developed in Aim 1, to elucidate the evolutionary history of the genus, and to underpin genome mining of secondary metabolite synthetic clusters. This will link to a BBSRC TRDF proposal (LP, Dr Kate Duncan, Dr Simon Rogers [Glasgow]) to develop the NPLINKER resource for prediction of secondary metabolite structure from genomic sequence. The data generated in this objective can directly inform development of kernel-based methods for associating BGC sequence with the product metabolite mass spectra in NPLINKER.
+Produce a definitive pangenome analysis for *Streptomyces*, using the classification scheme developed in Aim 1, to elucidate the evolutionary history of the genus, and to underpin genome mining of secondary metabolite synthetic clusters. This will link to a BBSRC TRDF proposal (LP, [Dr Kate Duncan](https://www.strath.ac.uk/staff/duncankatherinedr/), [Dr Simon Rogers](http://www.dcs.gla.ac.uk/~srogers/) [Glasgow]) to develop the NPLINKER resource for prediction of secondary metabolite structure from genomic sequence. The data generated in this objective can directly inform development of kernel-based methods for associating BGC sequence with the product metabolite mass spectra in NPLINKER.
 
 ### Aim 3: Whole-genome metabolic modelling of *Streptomyces*
 
