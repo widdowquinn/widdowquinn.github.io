@@ -55,10 +55,10 @@ Weekly reports are a way to report what group members have been up to; this prov
 
 Weekly reports can and should be minimalist - basically, list
 
-    what you’ve been working on for the lab, including progress made and obstacles overcome;
-    deferred items and upcoming issues;
-    long term goals;
-    work-related travel
-    anything else you want Leighton to know, including personal issues.
+- what you’ve been working on for the lab, including progress made and obstacles overcome;
+- deferred items and upcoming issues;
+- long term goals;
+- work-related travel;
+- anything else you want Leighton to know, including personal issues;
 
 If most of the weekly report can be copy-pasted from the previous week, feel free to do so. If it takes you more than 60 minutes to do each week, you’re probably overthinking it.
