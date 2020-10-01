@@ -33,7 +33,6 @@ We have a code of conduct. Please see the [Group Code of Conduct](/group/code_of
 The first choice of language for writing software should be Python, in order to maximize reuse and remixability within the lab. This does not exclude use of other languages (Bash, MATLAB, C++, Julia, Go, etc.) where they are more appropriate to the task.
 
 Postdocs are generally welcome to take projects with them and collaborate on group projects after they leave the group, although Leighton may have suggestions to help with career considerations.
-https://https://anaconda.org/bioconda
 
 Given finite resources, not all problems are worth solving. Choose problems worthy of your time and energy.
 {: .notice--danger}
