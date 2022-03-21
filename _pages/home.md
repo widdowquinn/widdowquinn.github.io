@@ -16,6 +16,7 @@ feature_row:
     url: "/group/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+    image_size: "30%"
   - image_path: /assets/images/icons/computer.svg
     alt: "software"
     title: "Software"
@@ -23,6 +24,7 @@ feature_row:
     url: "/software/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+    image_size: "30%"
   - image_path: /assets/images/icons/document-3.svg
     alt: "teaching"
     title: "Teaching"
@@ -30,6 +32,7 @@ feature_row:
     url: "/teaching/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+    image_size: "30%"
 ---
 
 {% include feature_row %}
