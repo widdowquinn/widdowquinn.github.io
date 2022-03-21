@@ -52,6 +52,31 @@ To present these materials, we use [GitHub](https://github.com/sipbs-compbiol/MP
 
 In addition to teaching at undergraduate and postgraduate level, we run and assist other training workshops aimed at staff and students. Some of these workshops are described below.
 
+### Carpentries Workshops
+
+Leighton and Bailey are qualified The Carpentries instructors, with several years' experience in running and delivering Software Carpentry and Data Carpentries workshops across to teach foundational coding and data science skills to researchers across the UK.
+
+- [The Carpentries](https://carpentries.org/)
+  - [Software Carpentry](https://software-carpentry.org/)
+  - [Data Carpentry](https://datacarpentry.org/)
+
+We have hosted workshops at Strathclyde, and at other sites across the UK and internationally, including:
+
+- [2021-05-11 Strathclyde](https://sipbs-compbiol.github.io/2021-05-11-strathclyde-online/)
+- [2021-05-04 Strathclyde](https://sipbs-compbiol.github.io/2021-05-04-strathclyde-online/)
+- [2019-05-30 St Andrews](https://starescomp.github.io/2019-05-30-standrews/)
+- [2019-05-02 St Andrews](https://starescomp.github.io/2019-05-02-standrews/)
+- [2018-11-27 St Andrews](https://starescomp.github.io/2018-11-27-standrews/)
+- [2018-09-05 Dundee](https://widdowquinn.github.io/2018-09-05-dundee/)
+- [2018-03-29 St Andrews](https://starescomp.github.io/2018-03-29-standrews/)
+- [2018-01-11 NUI Galway](https://widdowquinn.github.io/2018-01-11-ireland/)
+- [2017-12-04 St Andrews](https://starescomp.github.io/2017-12-04-standrews/)
+- [2016-10-17 Edinburgh (CoDiMa)](https://widdowquinn.github.io/2016-10-17-edinburgh/)
+- [2016-01-11 Dundee](https://widdowquinn.github.io/2016-01-11-dundee/)
+- [2015-11-16 Manchester (CoDiMa)](https://github.com/kkwakwa/2015-11-16-manchester-codima)
+- [2014-12-03 Edinburgh](https://widdowquinn.github.io/2014-12-03-edinburgh/)
+
+
 ### 2021-01-13 SIPBS Research Day Workshop: Better UniProt
 
 {% include figure image_path="/assets/images/content/uniprot_workshop_graph.png" alt="Output graph (horizonal violion plot) from the UniProt workshop notebook showing the distribution of protein lengths for four groups of sequences having different evidence codes." caption="Output graph from the UniProt workshop notebook showing the final automated query output, a distribution of protein lengths for four groups of sequences having different evidence codes." %}
