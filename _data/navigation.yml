@@ -10,3 +10,34 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+# Links to teaching material
+sidebar-teaching:
+  - title: "BM425"
+    children:
+      - title: "Course Page (MyPlace)"
+        url: https://classes.myplace.strath.ac.uk/course/info.php?id=21676
+  - title: "BM432"
+    children:
+      - title: "Course Page (MyPlace)"
+        url: https://classes2020-2021.myplace.strath.ac.uk/course/info.php?id=21920
+      - title: "Home Page (GitHub)"
+        url: https://sipbs-compbiol.github.io/BM432/
+      - title: "GitHub Repo"
+        url: https://github.com/sipbs-compbiol/BM432
+  - title: "MP429"
+    children:
+      - title: "Course Page (MyPlace)"
+        url: https://classes2020-2021.myplace.strath.ac.uk/course/info.php?id=21542
+      - title: "Home Page (GitHub)"
+        url: https://sipbs-compbiol.github.io/MP429/
+      - title: "GitHub Repo"
+        url: https://github.com/sipbs-compbiol/MP429
+  - title: "Research Day Workshop 2021"
+    children:
+      - title: "Home Page (GitHub)"
+        url: https://widdowquinn.github.io/2021-01-13_sipbs_workshop/
+      - title: "GitHub Repo"
+        url: https://github.com/widdowquinn/2021-01-13_sipbs_workshop
+
+
