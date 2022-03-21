@@ -33,6 +33,12 @@ sidebar-teaching:
         url: https://sipbs-compbiol.github.io/MP429/
       - title: "GitHub Repo"
         url: https://github.com/sipbs-compbiol/MP429
+  - title: "Carpentries Workshops"
+    children:
+      - title: "2021-05-11 Strathclyde"
+        url: https://sipbs-compbiol.github.io/2021-05-11-strathclyde-online/
+      - title: "2021-05-04 Strathclyde"
+        url: https://sipbs-compbiol.github.io/2021-05-04-strathclyde-online/
   - title: "Research Day Workshop 2021"
     children:
       - title: "Home Page (GitHub)"
