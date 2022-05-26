@@ -8,12 +8,23 @@ toc_icon: "book-reader"
 toc_sticky: true
 ---
 
-The group subscribes to and supports the University of Strathclyde's unacceptable behaviour and personal relationship policies.
+The group aims to be a supportive, encouraging environment for producing excellent science. We subscribe to and support the University of Strathclyde's unacceptable behaviour and personal relationship policies:
 
 - [University of Strathclyde Unacceptable Behaviour Policy](https://www.strath.ac.uk/media/1newwebsite/documents/complaintsprocedure/Unacceptable_Behaviour_Policy.pdf)
 - [University of Strathclyde Staff Personal Relationship Policy](https://www.strath.ac.uk/media/ps/humanresources/policies/Staff_Personal_Relationships_Policy.pdf)
 
-In addition to this, all members of the lab, along with visitors, are expected to agree with the following code of conduct. We will enforce this code as needed. We expect cooperation from all members to help ensuring a safe environment for everybody.
+Members of the group are also expected to follow all other applicable university policies, including the following:
+
+- [Alcohol, drugs, and substance misuse](https://www.strath.ac.uk/media/ps/humanresources/policies/Alcohol_Drugs_Substances_Misuse_Policy.pdf)
+- [Dignity and respect policy](https://www.strath.ac.uk/media/ps/humanresources/policies/DignityandRespectPolicy.pdf)
+- [Use of social media](https://www.strath.ac.uk/media/ps/humanresources/policies/Guidance_on_the_Use_of_Social_Media.pdf)
+
+Please note that posting about work issues from a personal account can be in breach of university policies. _"Inappropriate use of social media, whether at work or in a private capacity, can potentially violate the privacy, breach the security and/or harm the reputations of colleagues, students and/or the University. Breaches of these guidelines such as bullying of colleagues or social media activity which causes reputational damage to the University may constitute misconduct and could result in disciplinary action being taken."_
+{: .notice--danger}
+
+Further details, and more policies, can be found on the [University of Strathclyde HR Policies and Procedures page](https://www.strath.ac.uk/staff/policies/hr/).
+
+In addition, all members of the lab, along with visitors, are expected to agree with the following code of conduct. We will enforce this code as needed. We expect cooperation from all members to help in ensuring a safe and productive working environment for everybody.
 
 ## The Quick Version
 
