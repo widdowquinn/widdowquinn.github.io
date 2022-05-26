@@ -46,4 +46,30 @@ sidebar-teaching:
       - title: "GitHub Repo"
         url: https://github.com/widdowquinn/2021-01-13_sipbs_workshop
 
+# Links to group software
+sidebar-software:
+  - title: "pyani"
+    children:
+      - title: "Home Page"
+      - url: https://widdowquinn.github.io/pyani/
+      - title: "GitHub Repository"
+      - url: https://github.com/widdowquinn/pyani
+  - title: "cazy_webscraper"
+    children:
+      - title: "Home Page"
+      - url: https://hobnobmancer.github.io/cazy_webscraper
+      - title: "GitHub Repository"
+      - url: https://github.com/HobnobMancer/cazy_webscraper
+  - title: "ncfp"
+    children:
+      - title: "Home Page"
+      - url: https://widdowquinn.github.io/ncfp/
+      - title: "GitHub Repository"
+      - url: https://github.com/widdowquinn/ncfp
+  - title: "pdp"
+    children:
+      - title: "Home Page"
+      - url: https://widdowquinn.github.io/find_differential_primers/
+      - title: "GitHub Repository"
+      - url: https://github.com/widdowquinn/find_differential_primers
 
